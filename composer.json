@@ -1,0 +1,14 @@
+{
+    "name": "user/projeto_novo",
+    "autoload": {
+        "psr-4": {
+            "User\\ProjetoNovo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ronzim"
+        }
+    ],
+    "require": {}
+}
